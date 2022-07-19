@@ -12,7 +12,6 @@ public class PlayerCamMove : MonoBehaviour
     [SerializeField] private float speed;
     [SerializeField] private float camSensitivity;
 
-   
 
     // Update is called once per frame
     void Update()
